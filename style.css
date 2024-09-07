@@ -319,6 +319,8 @@ main{
         display: block !important;
     }
     header{
-        padding:5px;
+        padding:0px;
     }
+    .mainContent{
+        padding:10px 0px;
 }
