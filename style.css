@@ -269,7 +269,7 @@ main{
         display: none;
     }
     .logo img{
-        width: 80px !important;
+        width: 130px !important;
     }
     .headerCol1 {
         gap: 10px;
@@ -278,11 +278,11 @@ main{
         gap: 0;
     }
     svg{
-        width: 35px;
-        height: 35px;
+        width: 40px;
+        height: 40px;
     }
     .searchIcon{
-        height: 35px;
+        height: 40px;
     }
     .searchInput{
         padding: 0;
@@ -303,14 +303,14 @@ main{
         border: none;
         box-shadow: none;
         border-radius: 25px;
-        width: 35px;
-        height: 35px;
+        width: 40px;
+        height: 40px;
         float: right;
         margin-right: 10px;
     }
     #pfpimg{
-        width: 25px;
-        height: 25px;
+        width: 30px;
+        height: 30px;
     }
     .menuIcon svg{
         display: block !important;
