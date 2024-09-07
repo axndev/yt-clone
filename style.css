@@ -318,4 +318,7 @@ main{
     .clsmenuIcon svg{
         display: block !important;
     }
+    header{
+        padding:5px;
+    }
 }
