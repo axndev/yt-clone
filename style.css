@@ -315,4 +315,7 @@ main{
     .menuIcon svg{
         display: block !important;
     }
+    .clsmenuIcon svg{
+        display: block !important;
+    }
 }
