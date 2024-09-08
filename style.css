@@ -456,9 +456,6 @@ header{
     .searchCol{
         width: 600px;
     }
-    .sidenav{
-        display:none;
-    }
 }
 @media (max-width:1076px) {
     .logo{
@@ -492,6 +489,9 @@ header{
     .searchInput{
         padding: 0;
         padding-left: 12px;
+    }
+     .sidenav{
+        display:none;
     }
 }
 @media (max-width:600px) {
