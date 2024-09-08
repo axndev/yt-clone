@@ -471,7 +471,7 @@ header{
         display: none;
     }
     .logo img{
-        width: 80px !important;
+        width: 120px !important;
     }
     .headerCol1 {
         gap: 10px;
@@ -497,7 +497,7 @@ header{
         padding: 0px 10px 0px 5px;
     }
     .mainContent, .videopageMain{
-        padding: 25px 10px;
+        padding: 20px 10px;
     }
         
 }
