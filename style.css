@@ -45,7 +45,7 @@ input:focus, input:focus-visible{
 header{
     justify-content: space-between !important;
     align-items: center;
-    padding: 4px 10px 0 5px;
+    padding: 4px 50px 0 25px;
 }
 .menuIcon{
     width: 25px;
@@ -492,6 +492,9 @@ header{
     }
      .sidenav{
         display:none;
+    }
+    header{
+        padding: 0px 10px 0px 5px;
     }
 }
 @media (max-width:600px) {
