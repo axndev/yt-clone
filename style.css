@@ -496,9 +496,10 @@ header{
     header{
         padding: 0px 10px 0px 5px;
     }
-    .mainContent{
-        padding: 20px 10px;
+    .mainContent, .videopageMain{
+        padding: 25px 10px;
     }
+        
 }
 @media (max-width:600px) {
     svg, .searchInput{
