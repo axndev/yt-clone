@@ -525,8 +525,10 @@ header{
         height: 25px;
     }
     .menuIcon svg{
-        display: block !important;
+        display: none !important;
     }
+    .menuIcon{
+        display: none !important;
     .clsmenuIcon svg{
         display: block !important;
     }
